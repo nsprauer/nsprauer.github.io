@@ -63,7 +63,7 @@ a {
 .wrapper {
   max-width: 1150px;
   margin: auto;
-  padding: 50px;
+  padding: auto;
   display: block;
 }
 
